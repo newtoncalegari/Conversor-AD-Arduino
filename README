@@ -1,0 +1,8 @@
+
+Conversor AD com Arduino
+
+Projeto desenvolvido durante o curso de Fisica Experimental 2 na PUC-SP utilizando o microcontrolador Arduino. O projeto consiste de uma interface gráfica desenvolvida em Flash (Action Script 3) e uma placa Arduino com um Potenciometro. Seu fim é didádito, a fim de auxiliar docentes e alunos a ensinar e aprender conceitos de conversor A/D.
+
+Responsáveis:
+ Newton J. Calegari, aluno de Ciência da Computação na PUC-SP.
+ Prof. Dra. Marisa Cavalcante, docente do curso de Física Experimental 2 para Ciência da Computação na PUC-SP.
